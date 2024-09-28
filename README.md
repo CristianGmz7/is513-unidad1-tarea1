@@ -1,0 +1,1 @@
+Ejemplos de ejercicio con C++ en el paradigma imperativo
